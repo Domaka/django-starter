@@ -155,6 +155,6 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 465
 EMAIL_USE_SSL = True
 EMAIL_HOST_USER = 'barrypop703@gmail.com'
-EMAIL_HOST_PASSWORD = 'udta rsrx ysou qtzq'  # Use the app password here
+EMAIL_HOST_PASSWORD = '#'  # Use the app password here
 DEFAULT_FROM_EMAIL = 'noreply@gmail.com'
 EMAIL_TIMEOUT = 60
